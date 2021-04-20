@@ -22,7 +22,7 @@ class WikiWebRoute extends StatelessWidget {
           children: [
             Center(
                 child: CircularProgressIndicator(
-                  backgroundColor: Theme.of(context).indicatorColor,
+                  backgroundColor: Colors.red,
                 )),
             Container(
               child: WebView(

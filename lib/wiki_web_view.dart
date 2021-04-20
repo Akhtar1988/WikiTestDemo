@@ -16,6 +16,7 @@ class WikiWebRoute extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         automaticallyImplyLeading: true,
+        backgroundColor: Colors.red,
       ),
       body: Builder(builder: (BuildContext context) {
         return Stack(

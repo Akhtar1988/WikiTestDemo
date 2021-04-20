@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 
-import 'wiki_search_api_model.dart';
+import 'wiki_search_model.dart';
 
 class ApiHelper {
   static const String _requestUrl =

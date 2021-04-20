@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'wiki_search_route.dart';
+import 'wiki_search_home_page.dart';
 
 void main() {
   runApp(MyApp());

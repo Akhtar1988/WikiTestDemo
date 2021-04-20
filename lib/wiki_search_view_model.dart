@@ -1,8 +1,8 @@
 import 'package:data_connection_checker/data_connection_checker.dart';
 import 'package:flutter/material.dart';
 
-import 'api_helper.dart';
-import 'db_helper.dart';
+import 'api_request.dart';
+import 'db.dart';
 
 class WikiSearchViewModel extends ChangeNotifier {
   WikiSearchViewModel() {

@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 
-import 'shimmer.dart';
+import 'shimmer_effect.dart';
 import 'wiki_search_view_model.dart';
-import 'wiki_web_route.dart';
+import 'wiki_web_view.dart';
 
 class WikiSearchRoute extends StatefulWidget {
   @override

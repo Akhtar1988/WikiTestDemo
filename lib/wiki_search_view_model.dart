@@ -10,7 +10,7 @@ class WikiSearchViewModel extends ChangeNotifier {
   }
 
   TextEditingController searchController =
-      TextEditingController(text: "Sachin");
+      TextEditingController(text: "Akhtar");
   FocusNode searchFocus = FocusNode();
 
   List<PageData> resultList = [];
